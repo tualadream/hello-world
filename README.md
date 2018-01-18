@@ -1,2 +1,2 @@
 # hello-world
-Learning git
+Writer, editor, content strategist, web developer
