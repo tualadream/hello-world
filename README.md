@@ -1,2 +1,3 @@
 # hello-world
-Writer, editor, content strategist, web developer
+
+content author and strategist, web developer
